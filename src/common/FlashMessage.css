@@ -1,0 +1,5 @@
+.ui.message.flash-message {
+	position: absolute;
+	bottom: 0;
+	left: 1em;
+}

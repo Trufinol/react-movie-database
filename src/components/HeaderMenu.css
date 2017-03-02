@@ -1,0 +1,9 @@
+.header-menu {
+  background-color: #222;
+  padding: 1em;
+  color: white;
+  margin-bottom: 1.5em;
+}
+.header-menu .header {
+  float: left;
+}
